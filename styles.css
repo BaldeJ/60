@@ -1,17 +1,10 @@
- h1{
-    text-align:right;
+  table{width:500px; height: 300px;}
+  td {
+	font-weight: bold;
 }
-h2{text-align:center;
-   width:300px;
+td {
+	text-align: center;
 }
-
-table{width:500px;}
-
-th{text-align:left;}
-
-td{text-align:center;}
-
-p {
-        text-align: justify;
-        width:300px;
+th {
+	font-weight: normal;
 }
