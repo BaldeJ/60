@@ -1,12 +1,15 @@
-p {
-	color: orange;
-}
-h1 {
-	color: green;
-}
-h2{
-	color: blue;
-}
-h3{
-	color: red;
-}
+ p {
+ color: rgb(120, 255, 255);
+   }
+  h1 {
+  color: #80FF00;
+      }	
+      h2 {
+  color: #FF0000;
+      }	
+      h3 {
+ color: rgb( 50, 100, 40);
+   }
+   h4 {
+   	color: #0000A0;
+   	   }
