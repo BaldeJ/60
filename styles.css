@@ -1,9 +1,10 @@
- ul {
-    color: blue;
+ i {
+    font-size: 30px;
+}
+ul {
+    font-size: 20px;
 }
 li {
     color: red;
-}
-i {
-    color: green;
+    font-weight: bold;
 }
