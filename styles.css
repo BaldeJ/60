@@ -1,6 +1,6 @@
-h1, h2, h3 {
-    text-align: center; color: red;
+ ul i {
+    color: red;
 }
- h3{
-    font-size: 16px;
+p i {
+    color: green;
 }
