@@ -1,6 +1,9 @@
-ul {
+ ul {
     color: blue;
 }
 li {
     color: red;
+}
+i {
+    color: green;
 }
