@@ -1,10 +1,6 @@
 h1, h2, h3 {
-    text-align: center;
+    text-align: center; color: red;
 }
-h2 {
-   color: blue;
-   }
-  h3 {
-  font-size: 16px;
-  color: red;
-  }  
+ h3{
+    font-size: 16px;
+}
