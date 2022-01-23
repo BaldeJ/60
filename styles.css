@@ -1,6 +1,10 @@
-.a{
-   color: red;
+.eee, .zzz {
+line-height: 1.5;
+font-family: Arial;
 }
-.b{
-   color: green;
+.eee {
+font-size: 20px;
+}
+.zzz {
+font-size:30px;
 }
