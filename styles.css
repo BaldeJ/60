@@ -1,7 +1,13 @@
-.eee p .bbb {
-   color: red;
+ .success {
+color: green;
 }
- /*  селектор выбираетэлемент класса bbb из абзаца p класса eee
-
-*/
+.error {
+color: red;
+}
+.large {
+font-size: 30px;
+}
+.small {
+font-size: 20px;
+}
  
