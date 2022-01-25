@@ -1,9 +1,10 @@
- .qqq{
-color: brown;
+#elem1 {
+   color: red;
 }
-.www{
-font-size: 30px;
+#elem2 {
+   color: green;
 }
-.eee{
-font-family: Times new roman;
+#elem3 {
+   color: blue;
 }
+
