@@ -1,4 +1,3 @@
-#elem .bbb {
-   color: red;
+ #block h1,  #block h2 {
+    text-align: center;
 }
-/*Селектор выбирает  элементы которые  находятся нутри id elem и имеют класс bbb. :*/
