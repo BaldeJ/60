@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-#block h1, #block h2 {
-font-size: 30px;
-}
 #block h2 {
-font-size: 20px;
+color: red;
 }
-#block h1, #block h2 {
-text-align: center;
-}
-=======
-#block p{color: red;}
->>>>>>> c5812a23c9b85ec864b30aca36abc6fd4a40349a
-=======
-#block p{color: red;}
->>>>>>> c5812a23c9b85ec864b30aca36abc6fd4a40349a
-=======
-#block p{color: red;}
->>>>>>> c5812a23c9b85ec864b30aca36abc6fd4a40349a
