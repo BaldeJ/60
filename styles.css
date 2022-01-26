@@ -1,3 +1,7 @@
  #block h1,  #block h2 {
     text-align: center;
 }
+
+#block h1{font-size: 30px;}
+#block h2{font-size: 20px;}
+
