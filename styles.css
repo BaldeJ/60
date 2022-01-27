@@ -1,1 +1,1 @@
-h3:only-of-type {color: red;}
+li:not(.elem) {color: red;}
