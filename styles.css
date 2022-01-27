@@ -1,8 +1,3 @@
-.block a.zzz {
-	color: red;
+li:first-child {color: red;
 }
-.block a.zzz:hover {
-	text-decoration: none;
-}
-
-/* селектор выбирает состояния ссылок a с классом zzz в блоке с классом block все кроме hover красные с чертой а hover красная без черты*/ 
+  
