@@ -1,12 +1,4 @@
-p:first-of-type {
-	color: red;
-}
-h1:first-of-type {
-	color: red;
-}
-h1:last-of-type {
-	color: red;
-}
-p:last-of-type {
-	color: red;
-}
+p:nth-of-type(3) {color: red;}
+h1:nth-last-of-type(even) {color: orange;} 
+/* я выбрал абзац который является третьим среди абзацев родителя div */
+/* nth-last-of-type выбирает четный h1 начиная с конца родителя div */
