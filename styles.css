@@ -1,1 +1,8 @@
- #elem  {border: 4px double orange;width: 300px;height: 200px;}
+ #elem{
+ width: 300px;
+ height: 200px;
+ border-left: 3px solid orange;
+ border-bottom: 3px solid red;
+ border-right: 3px solid green;
+ border-top: 3px solid blue;	
+ }
