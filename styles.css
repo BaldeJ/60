@@ -1,2 +1,7 @@
- a {color: blue; text-decoration: none;}
- a:hover {color: red; text-decoration: underline;}
+a {
+	color: red;
+}
+a:hover {
+	text-decoration: none;
+}
+/* селектор указывает  состояния ссылок a конкретнно здесь указано что все кроме hover будут красными чертой а hover красной без черты*/ 
