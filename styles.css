@@ -1,8 +1,8 @@
-a.zzz {
+#block a.zzz {
 	color: red;
 }
-a.zzz:hover {
+#block a.zzz:hover {
 	text-decoration: none;
 }
 
-/* селектор указывает  состояния ссылок a c классом zzz   здесь указано что все кроме hover будут красными с чертой а hover красной без черты*/ 
+/* селектор выбирает состояния ссылок a с классом zzz в блоке с id block*/ 
